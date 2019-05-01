@@ -1,14 +1,14 @@
 import { Hero } from './hero';
 
 export const HEROES: Hero [] = [
-    { id: 11, name: 'Mr. Nice' },
-    { id: 12, name: 'Narco' },
-    { id: 13, name: 'Bombasto' },
-    { id: 14, name: 'Celeritas' },
-    { id: 15, name: 'Magneta' },
-    { id: 16, name: 'RubberMan' },
-    { id: 17, name: 'Dynama' },
-    { id: 18, name: 'Dr IQ' },
-    { id: 19, name: 'Vovó JuJu' },
-    { id: 20, name: 'Tornado' }
+    { id: 11, name: 'Vovó Juju' },
+    { id: 12, name: 'Jorel' },
+    { id: 13, name: 'Lara' },
+    { id: 14, name: 'Carlos Felino' },
+    { id: 15, name: 'Seu Edson' },
+    { id: 16, name: 'Perdigoto' },
+    { id: 17, name: 'Ana Catarina' },
+    { id: 18, name: 'Nico' },
+    { id: 19, name: 'Steven Magal' },
+    { id: 20, name: 'Irmão do Jorel' }
 ];
